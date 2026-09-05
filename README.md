@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🧑🏻‍💻 I'm a software engineer who loves programming
 
-- 🎮 Creator of [firebox.no](https://firebox.no)🔥
+- 🎮 Creator of [firebox.no](https://firebox.no)🔥 & [flok.kr](https://flok.kr)
 
 - 🌍 I currently live in Nesodden outside of [Oslo](https://hoodmaps.com/oslo-neighborhood-map)
 
