@@ -38,6 +38,8 @@ end
 | 📬 **[flok.kr](https://flok.kr)** | Group messaging over email: one address, every member, no app required |
 | 🧱 **[libmc](https://github.com/sangar/libmc)** | A small foundation library for C: arenas, length-carrying strings, JSON/YAML and a portable platform layer |
 | 🔎 **[eind](https://github.com/sangar/eind)** | Instant file search for the terminal and launchers, answering in milliseconds |
+| 📟 **[bprocs](https://github.com/sangar/bprocs)** | A btop-style process manager for the terminal: run, watch and attach to a project's servers and workers |
+| 🎨 **[tweak](https://github.com/sangar/tweak)** | Turns tweakcn themes into native theme code for SwiftUI, Jetpack Compose, Flutter and JSON |
 | ☁️ **[dbox](https://github.com/sangar/dbox)** | Keep a local folder in sync with S3-compatible buckets, Dropbox style |
 | 🌦️ **[yr_forecast](https://github.com/sangar/yr_forecast)** · **[tidal](https://github.com/sangar/tidal)** · **[celestial](https://github.com/sangar/celestial)** | Weather, tides and sunrise for the Norwegian coast, in Ruby |
 
